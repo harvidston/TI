@@ -1,0 +1,10 @@
+C:\Users\Алексей\RiderProjects\TI Labs\TI-3task\TI-3task\bin\Debug\TI_3task.exe.config
+C:\Users\Алексей\RiderProjects\TI Labs\TI-3task\TI-3task\bin\Debug\TI_3task.exe
+C:\Users\Алексей\RiderProjects\TI Labs\TI-3task\TI-3task\bin\Debug\TI_3task.pdb
+C:\Users\Алексей\RiderProjects\TI Labs\TI-3task\TI-3task\obj\Debug\TI-3task.csprojAssemblyReference.cache
+C:\Users\Алексей\RiderProjects\TI Labs\TI-3task\TI-3task\obj\Debug\TI_3task.Properties.Resources.resources
+C:\Users\Алексей\RiderProjects\TI Labs\TI-3task\TI-3task\obj\Debug\TI-3task.csproj.GenerateResource.cache
+C:\Users\Алексей\RiderProjects\TI Labs\TI-3task\TI-3task\obj\Debug\TI-3task.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\RiderProjects\TI Labs\TI-3task\TI-3task\obj\Debug\TI_3task.exe
+C:\Users\Алексей\RiderProjects\TI Labs\TI-3task\TI-3task\obj\Debug\TI_3task.pdb
+C:\Users\Алексей\RiderProjects\TI Labs\TI-3task\TI-3task\obj\Debug\TI_3task.Form1.resources
